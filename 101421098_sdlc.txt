@@ -1,2 +1,2 @@
 SDLC (Software Development Lifecycle) is the process that development teams use to create software.
-
+Dev Ops engineers are a crucial part of the process, as without them there would not be the infrastructure required to go through the process smoothly.
