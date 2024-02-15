@@ -1,1 +1,3 @@
 DevOps (Developer Operations) is a course about the tools & methods used to grant developers a synchronous workflow.
+The course has had a large focus on online repositories (in our case Github) and the tools and processes that put everything together.
+
