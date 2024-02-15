@@ -1,0 +1,1 @@
+DevOps (Developer Operations) is a course about the tools & methods used to grant developers a synchronous workflow.
