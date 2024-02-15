@@ -1,0 +1,2 @@
+SDLC (Software Development Lifecycle) is the process that development teams use to create software.
+
