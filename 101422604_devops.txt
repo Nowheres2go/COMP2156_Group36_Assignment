@@ -1,2 +1,6 @@
 "DevOps," or COMP2156, is a course I'm currently enrolled in at George Brown College. 
 It's focus is on developer operations engineering and the protocols, procedures, and best practices suited for the workplace environment.
+
+Throughout the course, I've been gaining hands-on knowledge of analyzing and evaluating various DevOps implementations available. 
+Additionally, I've been engaging in practical work, utilizing a suite of industry-standard tools. 
+Some of the tools I've had the opportunity to use so far include GitHub and Travis CI. Moreover, I've learned about different data formats such as JSON and YAML.
