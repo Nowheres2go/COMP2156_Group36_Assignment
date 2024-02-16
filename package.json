@@ -4,7 +4,11 @@
   "description": "Group Project repo for COMP2156",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nowheres2go/COMP2156_Group36_Assignment.git"
   },
   "keywords": [],
   "author": "",
