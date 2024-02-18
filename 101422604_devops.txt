@@ -1,0 +1,14 @@
+"DevOps," or COMP2156, is a course I'm currently enrolled in at George Brown College. 
+It's focus is on developer operations engineering and the protocols, procedures, and best practices suited for the workplace environment.
+
+Throughout the course, I've been gaining hands-on knowledge of analyzing and evaluating various DevOps implementations available. 
+Additionally, I've been engaging in practical work, utilizing a suite of industry-standard tools. 
+Some of the tools I've had the opportunity to use so far include GitHub and Travis CI. Moreover, I've learned about different data formats such as JSON and YAML.
+
+After Midterms, we are set to learn more about Cloud infrastructure. This includes an exploration of Cloud Computing, covering topics such as the different types of cloud computing, why the cloud matters for DevOps, 
+popular examples of cloud computing, and the concepts of serverless and cloud formation. We'll also delve into Automating DevOps & Quality Assurance, where we'll discuss considerations for security when working with 
+cloud services, DevOps security best practices including SAST/DAST, asymmetric cryptography, SSH, and access tokens. Additionally, an introduction to BDD & TDD and source code quality checks will be covered.
+The curriculum also includes sessions on DevOps assembly lines, focusing on differentiating between CI pipelines and assembly lines. We'll also explore Commonly Used DevOps Tech, which encompasses topics such as 
+remote server automation, an introduction to infrastructure configuration, provisioning, and monitoring tools, understanding application containerization, and comparing containerization with virtualization.
+Lastly, we'll discuss Transitioning into the role of DevOps. This involves getting a foot in the DevOps door, focusing on the mindset of an engineer, understanding the market demand for a DevOps engineer, 
+essential skills required to penetrate the DevOps market, and additional resources and certification opportunities available in the field.
