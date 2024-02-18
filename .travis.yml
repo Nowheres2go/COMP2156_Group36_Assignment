@@ -5,4 +5,3 @@ node_js:
 dist: focal
 script:
   - npm install
-  - npm run build
