@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# COMP2156_Group36_Assignment
-Group Project repo for COMP2156 
-=======
-=======
->>>>>>> origin
 # Group 36 COMP2156 Group Assignment Repo 
 [![Build Status](https://app.travis-ci.com/Nowheres2go/COMP2156_Group36_Assignment.svg?branch=main)](https://app.travis-ci.com/Nowheres2go/COMP2156_Group36_Assignment)
 
@@ -59,8 +52,6 @@ Upon nearing the completion of the assignment and after a specified number of co
     - Added list of commits to README.md on main branch
 - ### **Bille** _[101010086-Bille](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101010086-Bille)_
     - 
-<<<<<<< HEAD
->>>>>>> origin
-=======
+
 
 >>>>>>> origin
