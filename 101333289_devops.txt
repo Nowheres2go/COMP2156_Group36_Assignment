@@ -1,0 +1,2 @@
+//This file has some content retaining to devops as a concept, including best practices in
+\\collaborative coding and coding as an individual to make proofreading more accessible.
