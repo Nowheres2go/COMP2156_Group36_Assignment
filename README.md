@@ -52,6 +52,3 @@ Upon nearing the completion of the assignment and after a specified number of co
     - Added list of commits to README.md on main branch
 - ### **Bille** _[101010086-Bille](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101010086-Bille)_
     - 
-
-
->>>>>>> origin
