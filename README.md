@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Group 36 COMP2156 Group Assignment Repo 
 [![Build Status](https://app.travis-ci.com/Nowheres2go/COMP2156_Group36_Assignment.svg?branch=main)](https://app.travis-ci.com/Nowheres2go/COMP2156_Group36_Assignment)
 
@@ -27,15 +26,21 @@ Upon nearing the completion of the assignment and after a specified number of co
     - Updated 101422604_devops.txt with details on the COMP2156/DevOps course I'm enrolled in through my college.
     - Added Three Empty txt Files To Branch
 - ### **Cameron** _[101421098-Cameron](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101421098-Cameron)_
-    - 
+    - Adding why learning the tools is important
+	- Adding repository info
+	- Added elaboration of importance of SDLC + DevOps Engineers
+	- Adding why DevOps engineers are important
+	- Defining SDLC
+	- I've learned more with GBC
+	- The college provides knowledge
+	- Brief DevOps course summary
+	- My relation to gbc
+	- Adding files
+
 - ### **John** _[101265542-John](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101265542-John)_
     -
 - ### **Omar** _[101333289-Omar](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101333289-Omar)_
     -
 - ### **Bille** _[101010086-Bille](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101010086-Bille)_
     - 
-=======
-# COMP2156_Group36_Assignment
-Group Project repo for COMP2156 
-Branch 101333289-Omar: Omar Saifuddin's Branch
->>>>>>> 3eae9cee6ee2d7156cdab2446c915e8c9e874642
+
