@@ -1,0 +1,3 @@
+DevOps (Developer Operations) is a course about the tools & methods used to grant developers a synchronous workflow.
+The course has had a large focus on online repositories (in our case Github) and the tools and processes that put everything together.
+We need to learn these tools as they are what help automate the SDLC process, in order to minimize time spent on infrastructure, and instead maximize efficiency for development.
