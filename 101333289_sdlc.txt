@@ -1,0 +1,3 @@
+The software development life cycle is a concept that covers several tasks required to build a software application.
+The process endures multiple stages to tackle different issues, such as adding features or squashing bugs in the software.
+
