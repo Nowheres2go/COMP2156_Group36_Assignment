@@ -34,7 +34,16 @@ Upon nearing the completion of the assignment and after a specified number of co
 - ### **John** _[101265542-John](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101265542-John)_
     -
 - ### **Omar** _[101333289-Omar](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101333289-Omar)_
-    -
+    - Added devops.txt
+    - Added gb.txt
+    - Added sdlc.txt
+    - Added text to 101333289_sdlc.txt
+    - Added Omar's information
+    - Merge pull request #4 from Nowheres2go/101333289-Omar
+    - Had a shawarma last night with extra garlic sauce and it was pretty good
+    - Deleted third line pertaining to my info, as it was redundant
+    - Had a beef shawarma last night with extra garlic sauce and it was pretty good
+    - Added list of commits to README.md on main branch
 - ### **Bille** _[101010086-Bille](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101010086-Bille)_
     - 
 >>>>>>> origin
