@@ -38,7 +38,18 @@ Upon nearing the completion of the assignment and after a specified number of co
 	- Adding files
 
 - ### **John** _[101265542-John](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101265542-John)_
-    -
+    - README.md file updated
+    - Context added to 101265542_sdlc.txt
+    - Context edited
+    - Context added to 101265542_devops.txt
+    - Context added to 101265542_gb.txt
+    - .txt files added
+    - Delete 101265542_sdlc.txt
+    - Delete 101265542_gb.txt
+    - Delete 101265542_devops.txt
+    - Create 101265542_sdlc.txt file
+    - Create 101265542_devops.txt file
+    - Create 101265542_gb.txt file
 - ### **Omar** _[101333289-Omar](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101333289-Omar)_
     - Added devops.txt
     - Added gb.txt
@@ -52,3 +63,4 @@ Upon nearing the completion of the assignment and after a specified number of co
     - Added list of commits to README.md on main branch
 - ### **Bille** _[101010086-Bille](https://github.com/Nowheres2go/COMP2156_Group36_Assignment/tree/101010086-Bille)_
     - 
+

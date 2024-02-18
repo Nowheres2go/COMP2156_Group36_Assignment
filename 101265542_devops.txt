@@ -1,0 +1,11 @@
+Course Description:
+This course provides a comprehensive introduction to the principles and practices of DevOps.
+It covers the collaboration between software development and IT operations, aiming to improve the lifecycle of systems development and ensuring agile, continuous delivery of high-quality software.
+Students will learn about automation, process re-engineering, and technology tools that facilitate DevOps practices.
+
+Objectives:
+Understand the fundamentals of DevOps and its significance in modern software development and IT operations.
+Gain hands-on experience with tools and technologies commonly used in DevOps ecosystems.
+Learn about continuous integration (CI), continuous delivery (CD), and continuous deployment strategies.
+Explore monitoring, logging, and communication tools that support DevOps practices.
+Develop skills to automate builds, tests, deployments, and infrastructure management.
